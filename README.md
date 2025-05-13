@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lowlufi&label=Profile%20views&color=0e75b6&style=flat" alt="lowlufi" /> 
-</p>
 
 <h1 align="center"> Hi, I'm Daniel Aguilera <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center">🎓 Computer Engineer with a specialization in Information Management 💾 & Bachelor of Science in Engineering 🔬</h3>
@@ -17,12 +14,11 @@ I’m a Computer Engineering graduate from Universidad de Playa Ancha in Chile, 
 - 🧠 I’m passionate about understanding how things work, that curiosity led me to study computer science, since technology is everywhere and shapes everything around us.<br>
 - 📬 Reach out to me at: danieleduardoaguilerac@gmail.com
 - ➡️ My Portfolio and CV https://dan1eleduardo.pages.dev/
-
-- --
+- 💻 My Linkledin <a href= "https://www.linkedin.com/in/danielaguileracampusano/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+- ---
 - 🌿 I also love nature, going outdoors, and taking photographs of beautiful landscapes and meaningful moments.<br>
-- 📸 Feel free to follow me on <a href= "https://www.instagram.com/dan1eleduardo/?hl=es">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-</a><br>
+- 📸 Feel free to follow me on  <a href= "https://www.instagram.com/dan1eleduardo/?hl=es"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+<br>
 
 
 
