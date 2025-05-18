@@ -1,10 +1,9 @@
 
 <h1 align="center"> Hi, I'm Daniel Aguilera <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center">🎓 Computer Engineer with a specialization in Information Management 💾 & Bachelor of Science in Engineering 🔬</h3>
+
 <h3 align="center">💻Learning to Full Stack Developer | Front-End & Data Specialist </h3>
-
 ---
-
 
 <img src="https://media.tenor.com/DehpokEAjJEAAAAi/cat-loading.gif" width="30px">&nbsp;***About me***
 
