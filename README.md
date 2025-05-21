@@ -7,7 +7,7 @@
 
 <img src="https://media.tenor.com/DehpokEAjJEAAAAi/cat-loading.gif" width="30px">&nbsp;***About me***
 
-I’m a Computer Engineering graduate from Universidad de Playa Ancha in Chile, with hands-on experience in tech projects focused on social and environmental impact. I'm passionate about building solutions that make a difference, and I'm currently working on a personal project called Findy — a web platform that helps people recover lost ID documents.<br>
+I’m a Computer Engineering graduate from Universidad de Playa Ancha in Chile, with hands-on experience in tech projects focused on social and environmental impact. I'm passionate about building solutions that make a difference, and I'm currently working on a personal project called Findy.<br>
 - 🌱 I’m always learning about technologies...<br>
 - ✔ Ask me about anything, I am happy to help<br>
 - 🧠 I’m passionate about understanding how things work, that curiosity led me to study computer science, since technology is everywhere and shapes everything around us.<br>
