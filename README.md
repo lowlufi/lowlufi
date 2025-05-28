@@ -16,7 +16,7 @@ I’m a Computer Engineering graduate from Universidad de Playa Ancha in Chile, 
 - 💻 My Linkledin <a href= "https://www.linkedin.com/in/danielaguileracampusano/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 - ---
 - 🌿 I also love nature, going outdoors, and taking photographs of beautiful landscapes and meaningful moments.<br>
-- 📸 Feel free to follow me on  <a href= "https://www.instagram.com/dan1eleduardo/?hl=es"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+- 📸 Feel free to follow me on  <a href= "https://www.instagram.com/dan1eleduardoooo/?hl=es"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 <br>
 
 
