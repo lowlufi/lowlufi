@@ -1,23 +1,24 @@
 
 <h1 align="center"> Hi, I'm Daniel Aguilera <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center">🎓 Computer Engineer with a specialization in Information Management 💾 & Bachelor of Science in Engineering 🔬 </h3>
+<h3 align="center">💻 Computer Engineer | Innovation & IT Development at Conexium 🚀</h3>
+<h4 align="center">🎓 Bachelor of Science in Engineering | Specialization in Information Management</h4>
 
-<h3 align="center"></h3>
 ---
 
 <img src="https://media.tenor.com/DehpokEAjJEAAAAi/cat-loading.gif" width="30px">&nbsp;***About me***
 
-I’m a Computer Engineering graduate from Universidad de Playa Ancha in Chile, with hands-on experience in tech projects focused on social and environmental impact. I'm passionate about building solutions that make a difference, and I'm currently working on a personal project called Findy.<br>
-- 🌱 I’m always learning about technologies...<br>
-- ✔ Ask me about anything, I am happy to help<br>
-- 🧠 I’m passionate about understanding how things work, that curiosity led me to study computer science, since technology is everywhere and shapes everything around us.<br>
-- 📬 Reach out to me at: danieleduardoaguilerac@gmail.com
-- ➡️ My Portfolio and CV https://dan1eleduardo.pages.dev/
-- 💻 My Linkledin <a href= "https://www.linkedin.com/in/danielaguileracampusano/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-- ---
-- 🌿 I also love nature, going outdoors, and taking photographs of beautiful landscapes and meaningful moments.<br>
-- 📸 Feel free to follow me on  <a href= "https://www.instagram.com/dan1eleduardoooo/?hl=es"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-<br>
+I’m a Computer Engineering graduate from **Universidad de Playa Ancha** in Chile, currently working at **Conexium** in the **Innovation & IT Development Unit**, where we design and implement technological solutions that drive efficiency, scalability, and innovation for diverse projects.  
+
+I have hands-on experience in social and environmental tech projects, and I’m also building a personal project called **Findy**.  
+- 🌱 Continuously learning about emerging technologies and development practices.<br>
+- ✔ Happy to collaborate on tech projects or offer advice.<br>
+- 🧠 Passionate about understanding how systems work and applying that knowledge to create impactful solutions.<br>
+- 📬 Contact: **danieleduardoaguilerac@gmail.com**  
+- ➡️ [Portfolio & CV](https://dan1eleduardo.pages.dev/)  
+- 💻 [LinkedIn](https://www.linkedin.com/in/danielaguileracampusano/)  
+---
+- 🌿 Nature lover, landscape photographer, and outdoor enthusiast.<br>
+- 📸 [Instagram](https://www.instagram.com/dan1eleduardoooo/?hl=es)
 
 
 
