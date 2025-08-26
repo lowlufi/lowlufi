@@ -1,14 +1,12 @@
-<div align="center">
-  <h1>
-    Hola, soy Daniel Aguilera 
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  </h1>
-  <p>
-    <b>Ingeniero de Innovación y Desarrollo TI en Conexium</b> 🚀
-    <br>
-    Apasionado por crear el futuro de la tecnología, una línea de código a la vez.
-  </p>
-</div>
+<h1 align="center">
+  Hola, soy Daniel Aguilera 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
+<p align="center">
+  <b>Ingeniero de Innovación y Desarrollo TI en Conexium</b> 🚀
+  <br>
+  Apasionado por crear el futuro de la tecnología, una línea de código a la vez.
+</p>
 
 ---
 
