@@ -4,33 +4,32 @@
 </h1>
 
 <p align="center">
-  <b>Fundador & Lead Developer en Análogo Digital</b> 🚀
+  <b>Ingeniero Informático | Fundador en Análogo Digital & Encargado de Innovación Tecnológica (TP - 4C)</b> 🚀
   <br>
-  Construyendo soluciones de software con propósito, desde la concepción hasta el despliegue.
+  Construyendo soluciones escalables y liderando la integración de tecnología de frontera en la educación y la gestión.
 </p>
 
 ---
 
 ### 👨‍💻 Sobre mí
 
-Soy Ingeniero en Computación y el creador detrás de **Análogo Digital**, un ecosistema de soluciones tecnológicas diseñadas para resolver problemas reales en la educación y la gestión personal. Mi enfoque combina la robustez del desarrollo backend con una experiencia de usuario fluida y privada.
+Soy Ingeniero Informático con un enfoque dual: desarrollo plataformas SaaS de alto rendimiento y lidero proyectos de transferencia tecnológica a nivel macro-regional. Mi pasión es crear sistemas que resuelvan problemas reales, combinando arquitecturas Cloud modernas (Cloudflare) con una visión estratégica de innovación.
 
-- 🛠️ **Creador de SPTP:** Plataforma SaaS para el seguimiento de práctica técnico-profesional, actualmente operativa en instituciones educativas.
-- 🧠 **Arquitecto de Latise:** Una aplicación de gestión de conocimiento personal (PKM) diseñada como un "segundo cerebro" con enfoque total en la privacidad.
-- 🚀 **Especialista en Cloudflare:** Implemento infraestructuras modernas utilizando Workers, R2, D1 y Pages para lograr escalabilidad y rendimiento óptimo.
+Actualmente divido mi impacto en dos grandes frentes:
+
+#### 🌐 **Innovación y Desarrollo TI (Conexium)**
+Como **Encargado de Innovación TP - 4C para la Macrozona Norte (Arica a Atacama)**, lidero el escalamiento de proyectos tecnológicos en la Educación Media Técnico Profesional (EMTP).
+- 🚀 **Transferencia Tecnológica:** Lidero la integración de soluciones de Internet de las Cosas (IoT), Inteligencia Artificial (IA), Realidad Aumentada (RA) y automatización industrial en ecosistemas educativos.
+- ⚙️ **Desarrollo de Sistemas Internos:** Lidero la creación de herramientas clave para la organización, incluyendo la *Plataforma de Gestión de Proyectos Interna*, *Portal PTP de Nuevas Oportunidades*, *Gestión del Programa Legado* y la automatización de reportes corporativos.
+
+#### 💡 **Arquitectura de Producto (Análogo Digital)**
+Como fundador y desarrollador principal, construyo soluciones de software "Product-as-a-Service" desde cero:
+- 🎓 **SPTP:** Plataforma SaaS operativa para el Seguimiento de Práctica Técnico Profesional.
+- 🧠 **Latise:** Aplicación PKM (Gestión del Conocimiento Personal) diseñada como un "segundo cerebro" centrado en la privacidad.
 
 ---
 
-### 💡 Foco Actual & Intereses
-
-- **Product-as-a-Service:** Escalando soluciones SaaS desde cero.
-- **IA Local & Productividad:** Integración de LLMs en flujos de trabajo personales y profesionales.
-- **Clean Architecture:** Construcción de sistemas mantenibles y resilientes.
-- **Hardware de Alto Rendimiento:** Optimización de entornos locales para desarrollo intensivo de IA.
-
----
-
-### 💻 Stack Tecnológico de Análogo Digital
+### 💻 Mi Stack Tecnológico
 
 <table>
   <tr>
@@ -43,7 +42,7 @@ Soy Ingeniero en Computación y el creador detrás de **Análogo Digital**, un e
       </div>
     </td>
     <td valign="top" width="33%">
-      <div align="center"><strong>Cloud Infrastructure</strong></div>
+      <div align="center"><strong>Cloud & Backend</strong></div>
       <div align="center">
         <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white"/>
         <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
@@ -51,11 +50,11 @@ Soy Ingeniero en Computación y el creador detrás de **Análogo Digital**, un e
       </div>
     </td>
     <td valign="top" width="33%">
-      <div align="center"><strong>Data Architecture</strong></div>
+      <div align="center"><strong>Data & IA</strong></div>
       <div align="center">
         <img alt="PostgreSQL" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
         <img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
-        <img alt="D1" src="https://img.shields.io/badge/Cloudflare_D1-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
+        <img alt="IA" src="https://img.shields.io/badge/Local_LLMs-000000?style=for-the-badge&logo=openai&logoColor=white"/>
       </div>
     </td>
   </tr>
@@ -63,13 +62,11 @@ Soy Ingeniero en Computación y el creador detrás de **Análogo Digital**, un e
 
 ---
 
-### 🛠️ Hardware & Periféricos
+### 🛠️ Foco y Metodologías
 
-*Mi espacio de trabajo está diseñado para la máxima eficiencia y precisión:*
-
-- **Computing:** MacBook Pro (Apple Silicon) enfocado en desarrollo de IA local.
-- **Periféricos:** Hardware audiófilo de alta fidelidad.
-- **Sim Racing:** Configuración de precisión para competencias de simulación.
+- **Innovación 4C:** Impulso el despliegue de Colaboración, Creatividad, Comunicación y Pensamiento Crítico en entornos técnicos.
+- **Clean Architecture:** Construcción de sistemas mantenibles, resilientes y escalables (Workers, R2, D1).
+- **IA Local & Productividad:** Integración de modelos de IA para optimizar flujos de trabajo personales e institucionales.
 
 ---
 
@@ -84,5 +81,5 @@ Soy Ingeniero en Computación y el creador detrás de **Análogo Digital**, un e
 </p>
 
 <p align="center">
-  🎸 <i>Cuando no estoy programando, estoy tocando la guitarra al ritmo de Kings of Convenience o buscando la vuelta perfecta en la pista de simulación.</i>
+  🎸 <i>Cuando no estoy programando o en terreno, me encuentras tocando la guitarra al ritmo de Kings of Convenience o buscando la vuelta perfecta en mi simulador de carreras.</i>
 </p>
