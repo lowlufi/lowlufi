@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <b>Ingeniero Informático | Fundador en Análogo Digital & Encargado de Innovación Tecnológica (TP - 4C)</b> 🚀
+  <b>Ingeniero Informático | Fundador en Análogo Digital & Encargado de Innovación Tecnológica (TP - 4C) en Conexium</b> 🚀
   <br>
   Construyendo soluciones escalables y liderando la integración de tecnología de frontera en la educación y la gestión.
 </p>
